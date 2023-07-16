@@ -1,7 +1,7 @@
 ## Hi there :wave:
 - I'm Jannik, currently doing a master's degree in data science in Lisbon.
 - Although I'm relatively new to the data science field, I'm a quick and eager learner.
-- My studies have taken me through exciting fields like reinforcement learning, text mining, and deep learning.
+- My studies have taken me through exciting fields like reinforcement learning, natural language processing, deep learning and machine learning operations.
 - If you're curious, check out my repositories for some projects I've been working on in the past few months! :tada:
 
 <!--
