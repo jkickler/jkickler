@@ -1,8 +1,11 @@
-## Hi there :wave:
-- I'm Jannik, currently doing a master's degree in data science in Lisbon.
-- Although I'm relatively new to the data science field, I'm a quick and eager learner.
-- My studies have taken me through exciting fields like Reinforcement Learning, Natural Language Processing, Deep Learning and Machine Learning Operations.
-- If you're curious, check out my repositories for some projects I've been working on in the past few months! :tada:
+## Hi there 👋
+I'm Jannik — a data science graduate based in Germany, with a background in business and computer science.
+
+During my master’s and working student role, I gained hands-on experience with Reinforcement Learning, NLP, time series forecasting, MLOps, and deep learning — working on both academic and real-world projects. I recently wrapped up my master's thesis on using open-source LLMs to build a question-answering system — [check it out here](https://github.com/jkickler/opensource-rag-qa-for-sme.git) 🔍
+
+This past year, I also took a gap year to travel through South America — improving my Spanish, experiencing new cultures, and gaining a broader perspective.
+
+Currently exploring new opportunities in data science — feel free to [connect with me on LinkedIn](https://linkedin.com/in/JannikKickler) or explore my projects below :tada:
 
 <!--
 **jkickler/jkickler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
