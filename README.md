@@ -3,7 +3,7 @@ I'm Jannik — a data science graduate based in Germany, with a background in bu
 
 During my master’s and working student role, I gained hands-on experience with Reinforcement Learning, NLP, time series forecasting, MLOps, and deep learning — working on both academic and real-world projects. I recently wrapped up my master's thesis on using open-source LLMs to build a question-answering system — [check it out here](https://github.com/jkickler/opensource-rag-qa-for-sme.git) 🔍
 
-This past year, I also took a gap year to travel through South America — improving my Spanish, experiencing new cultures, and gaining a broader perspective.
+The past 12 months, I also took a gap year to travel through South America — improving my Spanish, experiencing new cultures, and gaining a broader perspective.
 
 Currently exploring new opportunities in data science — feel free to [connect with me on LinkedIn](https://linkedin.com/in/JannikKickler) or explore my projects below :tada:
 
