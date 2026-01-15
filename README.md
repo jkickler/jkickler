@@ -1,9 +1,13 @@
 ## Hi there 👋
-I'm Jannik — a data science graduate based in Germany, with a background in business and computer science.
+I'm Jannik — a data scienctist based in Germany, with a background in business, marketing and computer science.
 
-During my master’s and working student role, I gained hands-on experience with Reinforcement Learning, NLP, time series forecasting, MLOps, and deep learning — working on both academic and real-world projects. I recently wrapped up my master's thesis on using open-source LLMs to build a question-answering system — [check it out here](https://github.com/jkickler/opensource-rag-qa-for-sme.git) 🔍
+During my master’s and working student role, I gained hands-on experience with Reinforcement Learning, NLP, time series forecasting, MLOps, and deep learning — working on both academic and real-world projects. My master's thesis focused on using open-source LLMs to build a question-answering system in 2024 — [check it out here](https://github.com/jkickler/opensource-rag-qa-for-sme.git) 🔍
 
-The past 12 months, I also took a gap year to travel through South America — improving my Spanish, experiencing new cultures, and gaining a broader perspective.
+Currently, I am enrolled in a 3‑month AI Engineering course at Turing College, where I am building three production‑oriented LLM and AI agent applications and a capstone project using LangChain and LangGraph. You can explore the course projects here:
+- AE Project 1 - [LLM Interview Coach](https://github.com/jkickler/llm-interview-coach)
+- AE Project 2 - [Wordy - A child friendly QA Assistant](https://github.com/jkickler/wordy-child-friendly-qa-assistant)
+- AE Project 3 - coming soon!
+- Capstone - coming soon!
 
 Currently exploring new opportunities in data science — feel free to [connect with me on LinkedIn](https://linkedin.com/in/JannikKickler) or explore my projects below :tada:
 
