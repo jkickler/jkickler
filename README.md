@@ -8,7 +8,7 @@ In a 3-month AI Engineering course at Turing College, I build my latest projects
 - AE Project 2 - [Wordy - A child friendly QA Assistant](https://github.com/jkickler/wordy-child-friendly-qa-assistant)
 - Capstone - [Book Buddy - Goodreads reading companion](https://github.com/jkickler/book-buddy)
 
-Currently exploring new opportunities in data science — feel free to [connect with me on LinkedIn](https://linkedin.com/in/JannikKickler) or explore my projects below :tada:
+Currently exploring new opportunities in data science — feel free to [connect me on LinkedIn](https://linkedin.com/in/JannikKickler) or explore my projects below :tada:
 
 <!--
 **jkickler/jkickler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
