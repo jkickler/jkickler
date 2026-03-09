@@ -6,7 +6,7 @@ During my master’s and working student role, I gained hands-on experience with
 In a 3-month AI Engineering course at Turing College, I build my latest projects, which are all LLM and AI agent applications. You can explore the course projects here:
 - AE Project 1 - [LLM Interview Coach](https://github.com/jkickler/llm-interview-coach)
 - AE Project 2 - [Wordy - A child friendly QA Assistant](https://github.com/jkickler/wordy-child-friendly-qa-assistant)
-- Capstone - coming soon!
+- Capstone - [Book Buddy - Goodreads reading companion](https://github.com/jkickler/book-buddy)
 
 Currently exploring new opportunities in data science — feel free to [connect with me on LinkedIn](https://linkedin.com/in/JannikKickler) or explore my projects below :tada:
 
